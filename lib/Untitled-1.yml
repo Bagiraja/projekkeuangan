@@ -1,0 +1,1 @@
+Tabel 1. categories - id - name - type: 1 -> income, 2 -> expense - created_at - update_at - deleted_at 2. transactions - id - name - category_id - transaction_date - amount - created_at - update_at - deleted_at
